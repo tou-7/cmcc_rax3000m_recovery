@@ -1,6 +1,5 @@
 @echo off
 
-
 echo 1.有线网卡连接路由器lan口
 echo 2..断电,按住路由器的reset,再通电,等待5,6秒放手(rax3000m 或 me 指示灯变蓝色)
 echo 3. 右键管理员运行 run.cmd 脚本 (tftpd64运行是,防火墙会提示,请允许放行)
